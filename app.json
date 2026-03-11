@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Durian Catcher",
+    "slug": "crown-fall",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1a0a00"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.davaodrop.crownfall"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a0a00"
+      },
+      "package": "com.davaodrop.crownfall"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "939f2254-9934-40f7-9639-ce4f98769793"
+      }
+    },
+    "owner": "duriancatch"
+  }
+}
